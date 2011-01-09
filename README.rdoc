@@ -1,0 +1,5 @@
+== Boca Golf Problems
+
+A set of RSpec examples used as golf problems with the boca-golf gem
+(https://github.com/flipstone/boca-golf)
+
